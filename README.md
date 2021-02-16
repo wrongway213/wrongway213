@@ -2,7 +2,7 @@
 <br>
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=wrongway213&show_icons=true&hide_border=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=wrongway213&show_icons=true&hide_border=true&theme=radical)
 
 <br>
 <!--
